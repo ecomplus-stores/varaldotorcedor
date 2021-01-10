@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 160px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 160px !important;\n    }",
+  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 180px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 180px !important;\n    }",
   "html_head": "",
   "html_body": ""
 }
