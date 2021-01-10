@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 100px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 100px !important;\n    }\n\n \n  #a-campeonato-brasileiro .menu__list {\ndisplay: flex;\nflex-direction: column;\n}\n#c-5fcc639f69274c73fce250b5 {\norder: 1;\n}\n#c-5fcc627169274c73fce2509b {\norder: 2\n}\n#c-5fcc63ba69274c73fce250b7 {\norder: 3;\n}\n#c-5fcc641d69274c73fce250bf {\norder: 4\n}\n#c-5fcc631d69274c73fce250a9 {\norder: 5;\n}\n#c-5fcc638f69274c73fce250b3 {\norder: 6;\n}\n#c-5fcc628669274c73fce2509d {\norder: 7;\n}\n#c-5fcc629b69274c73fce2509f {\norder: 8;\n}\n#c-5fcc638169274c73fce250b1 {\norder: 9;\n}\n#c-5fcc630869274c73fce250a7 {\norder: 10;\n}\n#c-5fcc62f669274c73fce250a5 {\norder: 11;\n}\n#c-5fcc62c369274c73fce250a1 {\norder: 12;\n}\n#c-5fcc63d469274c73fce250b9 {\norder: 13;\n}\n#c-5fcc62d269274c73fce250a3 {\norder: 14;\n}\n#c-5fcc625d69274c73fce25099 {\norder: 15;\n}\n#c-5fcc63f169274c73fce250bb {\norder: 16;\n}\n#c-5fcc640569274c73fce250bd {\norder: 17;\n}\n\n  ",
+  "css": "@media screen and (min-width: 998px) {\n    .product-item {\n        max-width: 100px;\n    }\n\n    .glide__slide.products-carousel__item {\n        width: 100px !important;\n    }",
   "html_head": "",
   "html_body": ""
 }
