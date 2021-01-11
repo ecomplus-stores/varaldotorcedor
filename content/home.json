@@ -41,9 +41,9 @@
       "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
       "limit": 24,
       "page": 4,
-      "sort": "news",
+      "sort": "views",
       "headless": false,
-      "title": "Lançamentos"
+      "title": ""
     },
     {
       "type": "collection-shelf",
