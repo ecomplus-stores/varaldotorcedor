@@ -20,7 +20,8 @@
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
       "/u_10391/?Acessórios ",
-      "/nba/?NBA"
+      "/nba/?NBA",
+      "/prontaentrega?Pronta Entrega"
     ],
     "random": 5,
     "full_width": true
