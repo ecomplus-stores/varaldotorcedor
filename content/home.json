@@ -28,6 +28,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/brasileirao-2-1-.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
