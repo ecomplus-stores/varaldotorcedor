@@ -66,15 +66,6 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 4,
-      "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
-      "sort": "news",
-      "headless": false
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
