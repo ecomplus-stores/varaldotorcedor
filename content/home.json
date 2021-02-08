@@ -24,6 +24,12 @@
           "end": "",
           "img": "/img/uploads/brasileirao-1-.png",
           "link": "https://varaldotorcedor.netlify.app/campeonato-brasileiro/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/nba.png",
+          "link": "https://varaldotorcedor.netlify.app/nba/"
         }
       ]
     },
@@ -44,8 +50,8 @@
       "shuffle": true,
       "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
       "limit": 24,
-      "page": 4,
-      "sort": "views",
+      "page": 3,
+      "sort": "news",
       "headless": false,
       "title": ""
     },
@@ -53,7 +59,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 10,
-      "page": 10,
+      "page": 4,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "news"
     },
@@ -61,7 +67,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 4,
+      "page": 2,
       "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
       "sort": "news"
     },
