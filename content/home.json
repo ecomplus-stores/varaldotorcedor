@@ -59,7 +59,8 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades"
+      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -81,11 +82,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
       "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -93,7 +94,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
