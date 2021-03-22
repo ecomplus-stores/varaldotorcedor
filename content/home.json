@@ -7,13 +7,6 @@
       "autoplay": 2000,
       "slides": [
         {
-          "start": "2020-12-20T04:41:34.000Z",
-          "end": "2022-12-20T04:41:00.000Z",
-          "img": "/img/uploads/retro-1-1-.png",
-          "mobile_img": "/img/uploads/retro-1-1-.png",
-          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
-        },
-        {
           "start": "2020-12-20T04:46:51.125Z",
           "end": "2022-12-20T04:45:00.000Z",
           "img": "/img/uploads/copia-de-retro-1-.png",
@@ -27,16 +20,23 @@
           "link": "https://varaldotorcedor.netlify.app/campeonato-brasileiro/"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/nba.png",
-          "link": "https://varaldotorcedor.netlify.app/nba/"
+          "start": "2020-12-20T04:41:34.000Z",
+          "end": "2022-12-20T04:41:00.000Z",
+          "img": "/img/uploads/retro-1-1-.png",
+          "mobile_img": "/img/uploads/retro-1-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/copia-de-retro-3-1-.png",
           "link": "https://www.varaldotorcedor.com.br/la-liga/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/nba.png",
+          "link": "https://varaldotorcedor.netlify.app/nba/"
         },
         {
           "start": "",
