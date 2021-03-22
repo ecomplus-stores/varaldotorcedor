@@ -21,7 +21,8 @@
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
       "/nba/?NBA",
-      "/prontaentrega?Pronta Entrega"
+      "/prontaentrega?Pronta Entrega",
+      "/varal-store?Varal Store"
     ],
     "random": 5,
     "full_width": true
