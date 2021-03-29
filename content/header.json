@@ -17,13 +17,13 @@
       "/novidades?Novidades",
       "/lancamentos-2020/2021?Lançamentos",
       "/futebol/?Futebol",
+      "/colecao-inverno-2021?Coleção Inverno 2021",
       "/linha-retro/?Linha Retrô",
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
       "/nba/?NBA",
       "/prontaentrega?Pronta Entrega",
-      "/varal-store?Varal Store",
-      "/colecao-inverno-2021?Coleção Inverno 2021"
+      "/varal-store?Varal Store"
     ],
     "random": 5,
     "full_width": true
