@@ -7,17 +7,17 @@
       "autoplay": 2000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/varaldotorcedor-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/lancamentos-2020/2021"
+        },
+        {
           "start": "2020-12-20T04:46:51.125Z",
           "end": "2022-12-20T04:45:00.000Z",
           "img": "/img/uploads/copia-de-retro-1-.png",
           "link": "https://varaldotorcedor.netlify.app/premier-league/",
           "alt": "Clique aqui"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/brasileirao-1-.png",
-          "link": "https://varaldotorcedor.netlify.app/campeonato-brasileiro/"
         },
         {
           "start": "2020-12-20T04:41:34.000Z",
