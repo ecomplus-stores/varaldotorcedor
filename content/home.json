@@ -60,27 +60,27 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": "",
-      "page": 1,
+      "page": 2,
       "collection_id": "5fc2709669274c73fcddf851:collections:Lançamentos:/lancamentos-2020/2021",
       "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
-      "page": 1,
+      "limit": "",
+      "page": 3,
       "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
       "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
+      "limit": "",
+      "page": 3,
       "collection_id": "605edcc8a46e555927c652b3:collections:Coleção Inverno 2021:/colecao-inverno-2021",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -95,8 +95,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
-      "page": 1,
+      "limit": "",
+      "page": 2,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "news"
     },
@@ -111,16 +111,16 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
+      "limit": "",
+      "page": 3,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
+      "shuffle": false,
+      "limit": "",
+      "page": 3,
       "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
       "sort": "news"
     },
