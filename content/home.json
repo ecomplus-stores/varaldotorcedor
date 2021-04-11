@@ -119,10 +119,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
-      "page": 2,
+      "limit": 15,
+      "page": 3,
       "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "info-bar",
