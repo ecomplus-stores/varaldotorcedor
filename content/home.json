@@ -61,9 +61,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 15,
+      "limit": 12,
       "page": 2,
-      "collection_id": "6073a57e71f42b0eaf71a961:collections:Lançamentos 2021:/lancamentos-2021",
+      "collection_id": "6073a57e71f42b0eaf71a961:collections:Lançamentos:/lancamentos-2021",
       "sort": "news"
     },
     {
