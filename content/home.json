@@ -74,7 +74,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 22,
       "page": 2,
       "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
@@ -82,7 +82,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 20,
       "page": 3,
       "collection_id": "605edcc8a46e555927c652b3:collections:Coleção Inverno 2021:/colecao-inverno-2021",
@@ -90,7 +90,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
       "limit": 22,
       "page": 4,
@@ -100,7 +100,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 21,
       "page": 3,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
