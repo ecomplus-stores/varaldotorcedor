@@ -11,56 +11,6 @@
           "end": "",
           "img": "/img/uploads/varaldotorcedor-1-.png",
           "link": "https://www.varaldotorcedor.com.br/lancamentos-2021"
-        },
-        {
-          "start": "2020-12-20T04:46:51.125Z",
-          "end": "2022-12-20T04:45:00.000Z",
-          "img": "/img/uploads/copia-de-retro-1-.png",
-          "link": "https://varaldotorcedor.netlify.app/premier-league/",
-          "alt": "Clique aqui"
-        },
-        {
-          "start": "2020-12-20T04:41:34.000Z",
-          "end": "2022-12-20T04:41:00.000Z",
-          "img": "/img/uploads/retro-1-1-.png",
-          "mobile_img": "/img/uploads/retro-1-1-.png",
-          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/copia-de-retro-3-1-.png",
-          "link": "https://www.varaldotorcedor.com.br/la-liga/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/nba.png",
-          "link": "https://varaldotorcedor.netlify.app/nba/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-chuteiras.png",
-          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/varalstore-3-1-1-.png",
-          "link": "https://www.varaldotorcedor.com.br/varal-store"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/thumbnail_varalstore-2-1-.png",
-          "link": "https://rastreamentocorreios.info/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/varaldotorcedor-2-2.png",
-          "link": "https://www.varaldotorcedor.com.br/adidas/"
         }
       ]
     },
@@ -86,32 +36,6 @@
       "limit": 20,
       "page": 3,
       "collection_id": "605edcc8a46e555927c652b3:collections:Coleção Inverno 2021:/colecao-inverno-2021",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
-      "limit": 22,
-      "page": 4,
-      "sort": "news",
-      "headless": false,
-      "title": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 21,
-      "page": 3,
-      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 2,
-      "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
       "sort": "news"
     },
     {
