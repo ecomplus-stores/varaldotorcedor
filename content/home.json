@@ -26,7 +26,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 22,
-      "page": 2,
+      "page": 8,
       "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
       "sort": "news"
     },
@@ -34,9 +34,17 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 20,
-      "page": 3,
+      "page": 4,
       "collection_id": "605edcc8a46e555927c652b3:collections:Coleção Inverno 2021:/colecao-inverno-2021",
-      "sort": "news"
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 4,
+      "collection_id": null,
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
