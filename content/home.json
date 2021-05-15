@@ -50,6 +50,29 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 3,
+      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 7,
+      "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 3,
+      "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 22,
       "page": 2,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
