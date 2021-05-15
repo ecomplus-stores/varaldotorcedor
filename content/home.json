@@ -42,16 +42,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 4,
-      "collection_id": null,
-      "sort": "news",
-      "title": "Lançamentos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 3,
+      "page": 5,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "news"
     },
@@ -59,7 +50,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 7,
+      "page": 3,
       "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
       "sort": "news"
     },
@@ -67,7 +58,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 3,
+      "page": 2,
       "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/"
     },
     {
@@ -85,6 +76,15 @@
       "page": 1,
       "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 4,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Mais vendidos"
     },
     {
       "type": "info-bar",
