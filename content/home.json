@@ -15,6 +15,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/thumbnail_varal-2-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/lancamentos-2021"
+        },
+        {
+          "img": "/img/uploads/varal-3-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/kit-agasalho"
+        },
+        {
+          "img": "/img/uploads/thumbnail_varal-1-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
+        },
+        {
+          "img": "/img/uploads/thumbnail_varal-4-.png",
+          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 20,
