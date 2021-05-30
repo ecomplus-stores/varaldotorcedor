@@ -3,34 +3,22 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 2000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/varaldotorcedor-1-.png",
-          "link": "https://www.varaldotorcedor.com.br/lancamentos-2021"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/thumbnail_varal-2-1-.png",
+          "img": "/img/uploads/copia-de-copia-de-varal-2-1-.png",
           "link": "https://www.varaldotorcedor.com.br/lancamentos-2021"
         },
         {
-          "img": "/img/uploads/varal-3-1-.png",
+          "img": "/img/uploads/copia-de-copia-de-varal-3-1-.png",
           "link": "https://www.varaldotorcedor.com.br/kit-agasalho"
         },
         {
-          "img": "/img/uploads/thumbnail_varal-1-1-.png",
+          "img": "/img/uploads/copia-de-copia-de-varal-1-1-.png",
           "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
         },
         {
-          "img": "/img/uploads/varal-5-1-.png",
+          "img": "/img/uploads/copia-de-copia-de-varal-4-.png",
           "link": "https://www.varaldotorcedor.com.br/chuteiras/"
         }
       ]
