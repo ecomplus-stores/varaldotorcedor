@@ -113,10 +113,6 @@
       "title": "Mais vendidos"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -124,6 +120,10 @@
           "link": "https://www.instagram.com/varaldotorcedoroficial/?hl=pt"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
