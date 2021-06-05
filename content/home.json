@@ -115,6 +115,15 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/thumbnail_fique-por-dentro-das-novidades-2-1-.png",
+          "link": "https://www.instagram.com/varaldotorcedoroficial/?hl=pt"
+        }
+      ]
     }
   ]
 }
