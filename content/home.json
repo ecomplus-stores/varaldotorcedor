@@ -34,6 +34,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60bbc4ef641ad82fcc211522:collections:Copa América:/copa-america",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 15,
       "page": 1,
       "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
