@@ -33,7 +33,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 15,
       "page": 1,
       "collection_id": "60bbc4ef641ad82fcc211522:collections:Copa América 2021:/copa-america",
