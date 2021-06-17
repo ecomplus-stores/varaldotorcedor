@@ -76,7 +76,8 @@
       "shuffle": false,
       "limit": 15,
       "page": 1,
-      "collection_id": "600d091669274c73fcfbf150:categories:Pronta Entrega:/prontaentrega"
+      "collection_id": "600d091669274c73fcfbf150:categories:Pronta Entrega:/prontaentrega",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
