@@ -26,8 +26,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
-      "page": "",
+      "limit": 24,
+      "page": 1,
       "collection_id": "6073a57e71f42b0eaf71a961:collections:Lançamentos:/lancamentos-2021",
       "sort": "news"
     },
