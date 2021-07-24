@@ -82,7 +82,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 15,
+      "limit": 20,
       "page": 1,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
       "sort": "news"
