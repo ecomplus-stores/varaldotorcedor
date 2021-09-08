@@ -6,6 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/as-mais-procuradas.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/copia-de-copia-de-varal-2-1-.png",
           "link": "https://www.varaldotorcedor.com.br/lancamentos-2021"
         },
