@@ -1,7 +1,7 @@
 {
   "domain": "www.varaldotorcedor.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#fffafa",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "lumen",
     "custom": "clean-white"
