@@ -10,6 +10,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/compre-agora-2-.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-third-real-madrid-20212022"
+        },
+        {
           "img": "/img/uploads/compre-agora-5-.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-third-ajax-2021---bob-marley"
         },
