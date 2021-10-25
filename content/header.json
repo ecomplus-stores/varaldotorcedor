@@ -21,8 +21,7 @@
       "/linha-retro/?Linha Retrô",
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
-      "/nba/?NBA",
-      "/prontaentrega?Pronta Entrega"
+      "/nba/?NBA"
     ],
     "random": 5,
     "full_width": true
