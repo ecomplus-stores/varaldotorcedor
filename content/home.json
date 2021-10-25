@@ -3,31 +3,6 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": []
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/compre-agora.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-internacional-20212022"
-        },
-        {
-          "img": "/img/uploads/compre-agora-1-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-liverpool-20212022"
-        },
-        {
-          "img": "/img/uploads/compre-agora-2-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-real-madrid-20212022"
-        },
-        {
-          "img": "/img/uploads/compre-agora-5-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-ajax-2021---bob-marley"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
