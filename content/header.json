@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": ""
+    "text": "O que há de melhor no mundo esportivo",
+    "link": "",
+    "color": "#f5f91a"
   },
   "contacts_stripe": {
     "pages": [
