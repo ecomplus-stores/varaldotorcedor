@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "O que há de melhor no mundo esportivo",
+    "text": "O QUE HÁ DE MELHOR NO MUNDO ESPORTIVO",
     "link": "",
-    "color": "#f5f91a"
+    "color": "#f5f91a",
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [
