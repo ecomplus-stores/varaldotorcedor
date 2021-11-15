@@ -3,10 +3,6 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/o-melhor-do-mundo-esportivo-esta-aqui-1-.jpg"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
@@ -99,6 +95,10 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/o-melhor-do-mundo-esportivo-esta-aqui-1-.png"
     }
   ]
 }
