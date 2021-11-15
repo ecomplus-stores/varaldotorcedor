@@ -95,6 +95,17 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "slides": [
+        {
+          "start": "2021-11-15T18:58:08.949Z",
+          "end": "2021-11-15T18:58:09.023Z",
+          "img": "/img/uploads/o-melhor-do-mundo-esportivo-esta-aqui-.png"
+        }
+      ]
     }
   ]
 }
