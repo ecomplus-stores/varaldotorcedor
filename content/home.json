@@ -3,8 +3,8 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/design-sem-nome.png"
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/design-sem-nome.png)"
     },
     {
       "type": "banners-grid",
