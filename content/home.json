@@ -37,7 +37,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 13,
       "page": 1,
       "collection_id": "61a671ce0c7c727225ad2f6a:collections:Uefa Champions League 2021/2022:/uefa-champions-league-20212022",
