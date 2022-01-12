@@ -6,7 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/atencao-torcedor-1-ok.jpg"
+          "img": "/img/uploads/atencao-torcedor.jpg",
+          "link": "https://www.varaldotorcedor.com.br/pages/recesso-fornecedores"
         }
       ]
     },
@@ -127,10 +128,6 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "blog",
       "enabled": true
     }
   ]
