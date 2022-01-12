@@ -1,7 +1,7 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Aviso",
+  "meta_title": "Aviso",
+  "meta_description": "",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -13,6 +13,10 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atencao-torcedor.jpg"
     }
   ]
 }
