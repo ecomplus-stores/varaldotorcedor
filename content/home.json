@@ -3,12 +3,16 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "![](/img/uploads/pronta-entrega-1-4-.jpg)"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/atencao-torcedor.jpg"
+        }
+      ]
     },
     {
       "type": "custom-content",
-      "markdown": "![](/img/uploads/atencao-torcedor.jpg)"
+      "markdown": "![](/img/uploads/pronta-entrega-1-4-.jpg)"
     },
     {
       "type": "banners-grid",
