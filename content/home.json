@@ -3,15 +3,6 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/atencao-torcedor.jpg",
-          "link": "https://www.varaldotorcedor.com.br/pages/recesso-fornecedores"
-        }
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/pronta-entrega-1-4-.jpg)"
     },
@@ -33,6 +24,15 @@
         {
           "img": "/img/uploads/compre-agora-13-.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-third-tigres-20212022"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/atencao-torcedor-3.jpg",
+          "link": "https://www.varaldotorcedor.com.br/pages/recesso-fornecedores"
         }
       ]
     },
