@@ -28,15 +28,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/pronta-entrega-1-5-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/pages/recesso-fornecedores"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
