@@ -10,6 +10,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/compre-agora-8-.png",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-universidad-de-chile-2022"
+        },
+        {
           "img": "/img/uploads/compre-agora-7-.png",
           "link": "https://www.varaldotorcedor.com.br/camisa-fourth-psg-20212022"
         },
@@ -20,10 +24,6 @@
         {
           "img": "/img/uploads/compre-agora-7-1-.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-away-manchester-city-20212022"
-        },
-        {
-          "img": "/img/uploads/compre-agora-12-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-venezia-20212022"
         }
       ]
     },
