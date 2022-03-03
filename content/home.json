@@ -37,14 +37,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 13,
-      "page": 1,
-      "collection_id": "61a671ce0c7c727225ad2f6a:collections:Uefa Champions League 2021/2022:/uefa-champions-league-20212022",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
       "page": 1,
@@ -89,14 +81,6 @@
       "limit": 20,
       "page": 1,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
       "sort": "news"
     },
     {
