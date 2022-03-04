@@ -95,6 +95,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 11,
+      "page": 1,
+      "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 15,
       "page": 1,
       "collection_id": null,
