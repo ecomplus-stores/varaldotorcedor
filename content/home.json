@@ -87,6 +87,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6158e04a28ace502ae92900e:categories:Adidas:/adidas",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 20,
       "page": 1,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
