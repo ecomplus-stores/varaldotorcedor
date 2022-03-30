@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.38d3160bd7a18bf1aff0bc4ed51eea7c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a44b2e7ded053b26116b525d32d9ff61.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c3bd88194dff6f9bd2a14f47857dd98f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.698645e21848a7f2874b934e1dade189.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.76f3da2f438f953c5a1dd791e3f3b3c8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Varal do torcedor",
+  "short_name": "Varal do Torcedor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desde 1º de julho de 2018, o Varal do Torcedor vêm se tornando uma referência de qualidade e preço justo em artigos esportivos. Trazendo o que há de melhor no mundo esportivo, buscamos a fidelização de nossos clientes, através de uma experiência transparente e satisfatória. ",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
