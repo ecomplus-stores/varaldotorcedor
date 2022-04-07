@@ -3,8 +3,14 @@
   "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "![https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2](/img/uploads/promocao-compre-1-.png \"Clique aqui\")"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/promocao-compre-1-.png",
+          "link": "https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2",
+          "alt": "Clique"
+        }
+      ]
     },
     {
       "type": "banners-grid",
