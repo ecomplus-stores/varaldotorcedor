@@ -134,6 +134,15 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/chuteiras-campo-1-.jpg",
+          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
+        }
+      ]
     }
   ]
 }
