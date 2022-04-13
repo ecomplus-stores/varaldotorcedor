@@ -33,6 +33,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/chuteiras-campo-1-.jpg",
+          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
+        },
+        {
+          "img": "/img/uploads/colecao-inverno-2022.jpg",
+          "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
+        },
+        {
+          "img": "/img/uploads/linha-retro.jpg",
+          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
+        },
+        {
+          "img": "/img/uploads/nba.jpg",
+          "link": "https://www.varaldotorcedor.com.br/nba/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
@@ -134,27 +155,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/chuteiras-campo-1-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
-        },
-        {
-          "img": "/img/uploads/colecao-inverno-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
-        },
-        {
-          "img": "/img/uploads/linha-retro.jpg",
-          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
-        },
-        {
-          "img": "/img/uploads/nba.jpg",
-          "link": "https://www.varaldotorcedor.com.br/nba/"
-        }
-      ]
     }
   ]
 }
