@@ -6,6 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-juventus-fourth.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-fourth-juventus-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-internacional.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-internacional-2022"
         },
@@ -16,10 +20,6 @@
         {
           "img": "/img/uploads/compre-agora.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-third-boca-juniors-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-juventus-fourth.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-fourth-juventus-2022"
         }
       ]
     },
