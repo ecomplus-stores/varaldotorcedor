@@ -50,6 +50,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/copa-do-mundo-2022-1-.jpg",
+          "link": "https://www.varaldotorcedor.com.br/selecoes/"
+        },
+        {
+          "img": "/img/uploads/nba.jpg",
+          "link": "https://www.varaldotorcedor.com.br/nba/"
+        },
+        {
+          "img": "/img/uploads/futebol-feminino.jpg",
+          "link": "https://www.varaldotorcedor.com.br/feminino/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
