@@ -24,6 +24,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 15,
+      "page": 1,
+      "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -50,31 +58,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/copa-do-mundo-2022-1-.jpg",
-          "link": "https://www.varaldotorcedor.com.br/selecoes/"
-        },
-        {
-          "img": "/img/uploads/nba.jpg",
-          "link": "https://www.varaldotorcedor.com.br/nba/"
-        },
-        {
-          "img": "/img/uploads/futebol-feminino.jpg",
-          "link": "https://www.varaldotorcedor.com.br/feminino/"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
@@ -97,6 +80,23 @@
       "page": 1,
       "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/copa-do-mundo-2022-1-.jpg",
+          "link": "https://www.varaldotorcedor.com.br/selecoes/"
+        },
+        {
+          "img": "/img/uploads/nba.jpg",
+          "link": "https://www.varaldotorcedor.com.br/nba/"
+        },
+        {
+          "img": "/img/uploads/futebol-feminino.jpg",
+          "link": "https://www.varaldotorcedor.com.br/feminino/"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -126,17 +126,17 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
-      "collection_id": "6158e04a28ace502ae92900e:categories:Adidas:/adidas",
+      "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
       "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 12,
       "page": 1,
-      "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
+      "collection_id": "6158e04a28ace502ae92900e:categories:Adidas:/adidas",
       "sort": "news"
     },
     {
