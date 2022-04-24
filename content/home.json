@@ -76,9 +76,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 15,
       "page": 1,
-      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
+      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "news"
     },
     {
@@ -101,9 +101,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 15,
+      "limit": 20,
       "page": 1,
-      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
+      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
       "sort": "news"
     },
     {
