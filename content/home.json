@@ -6,6 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-penarol.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-penarol-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-juventus-fourth.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-fourth-juventus-2022"
         },
@@ -16,10 +20,6 @@
         {
           "img": "/img/uploads/camiseta-new-york.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-away-new-york-city-2022"
-        },
-        {
-          "img": "/img/uploads/compre-agora.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-boca-juniors-2022"
         }
       ]
     },
