@@ -6,6 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-flamengo.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-away-flamengo-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-penarol.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-penarol-2022"
         },
@@ -14,12 +18,8 @@
           "link": "https://www.varaldotorcedor.com.br/camisa-fourth-juventus-2022"
         },
         {
-          "img": "/img/uploads/camiseta-internacional.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-internacional-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-new-york.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-new-york-city-2022"
+          "img": "/img/uploads/camiseta-corinthians.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-corinthians-2022"
         }
       ]
     },
