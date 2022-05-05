@@ -6,6 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-liverpool.png",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-liverpool-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-corinthians.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-corinthians-2022"
         },
@@ -16,10 +20,6 @@
         {
           "img": "/img/uploads/camiseta-penarol.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-penarol-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-liverpool.png",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-liverpool-2022"
         }
       ]
     },
