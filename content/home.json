@@ -6,6 +6,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-sao-paulo-away.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-away-sao-paulo-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-liverpool.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-liverpool-2022"
         },
@@ -14,12 +18,8 @@
           "link": "https://www.varaldotorcedor.com.br/camisa-away-flamengo-2022"
         },
         {
-          "img": "/img/uploads/camiseta-corinthians.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-corinthians-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-sao-paulo-away.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-sao-paulo-2022"
+          "img": "/img/uploads/camiseta-bayern.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-bayern-de-munique-2022"
         }
       ]
     },
