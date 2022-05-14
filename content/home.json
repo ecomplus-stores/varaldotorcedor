@@ -24,6 +24,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/composicao-70.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
