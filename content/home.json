@@ -1,6 +1,6 @@
 {
   "meta_title": "Varal do Torcedor",
-  "meta_description": "Varal,camisas,Torcedor,Nba,Futebol ",
+  "meta_description": "Varal,camisas,Torcedor,Nba,Futebol",
   "sections": [
     {
       "type": "banners-grid",
@@ -19,6 +19,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/camiseta-real-madrid-2022.jpg",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-real-madrid-2022"
+        },
+        {
           "img": "/img/uploads/camiseta-borussia-2022.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-borussia-dortmund-2022"
         },
@@ -29,10 +33,6 @@
         {
           "img": "/img/uploads/camiseta-belgica-2022-feminina.jpg",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-belgica-2022---feminina"
-        },
-        {
-          "img": "/img/uploads/camiseta-real-madrid-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-real-madrid-2022"
         }
       ]
     },
