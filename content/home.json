@@ -16,27 +16,6 @@
       "img": "/img/uploads/composicao-70.jpg"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camiseta-arsenal-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-arsenal-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-city-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-manchester-city-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-real-madrid-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-real-madrid-2022"
-        },
-        {
-          "img": "/img/uploads/camiseta-juventus-2022.jpg",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-juventus-2022"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
