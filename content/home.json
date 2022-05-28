@@ -16,11 +16,6 @@
       "img": "/img/uploads/composicao-70.jpg"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/composicao-80-1-.jpg",
-      "link": "https://t.me/+G9fjO-60fB9lYzUx"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
