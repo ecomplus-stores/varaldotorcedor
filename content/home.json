@@ -3,15 +3,15 @@
   "meta_description": "Varal,camisas,Torcedor,Nba,Futebol,agasalhos,futebol 2022, varal do torcedor",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
-          "img": "/img/uploads/banner-compre-2-leve-3-1-.jpg",
+          "start": "2022-06-04T07:01:03.790Z",
+          "end": "2022-06-04T07:01:05.011Z",
+          "img": "/img/uploads/banner-compre-2-leve-3-1-.webp",
           "link": "https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2"
-        },
-        {
-          "img": "/img/uploads/composicao-8_10.webp",
-          "link": "https://t.me/+G9fjO-60fB9lYzUx"
         }
       ]
     },
