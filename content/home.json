@@ -137,6 +137,14 @@
       "shuffle": false,
       "limit": 15,
       "page": 1,
+      "collection_id": "61574c9128ace502ae912bf8:categories:Nike:/nike",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 15,
+      "page": 1,
       "collection_id": null,
       "sort": "sales",
       "title": "Mais vendidos"
