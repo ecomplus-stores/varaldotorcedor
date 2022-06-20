@@ -78,16 +78,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/chuteiras-campo.png",
+          "img": "/img/uploads/nba.webp",
           "link": "https://www.varaldotorcedor.com.br/nba/",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/copa-do-mundo-desenho.jpg",
+          "img": "/img/uploads/copa-do-mundo-desenho.webp",
           "link": "https://www.varaldotorcedor.com.br/selecoes/"
         },
         {
-          "img": "/img/uploads/futebol-feminino-desenho.jpg",
+          "img": "/img/uploads/futebol-feminino-desenho.webp",
           "link": "https://www.varaldotorcedor.com.br/feminino/"
         }
       ]
