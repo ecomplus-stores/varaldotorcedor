@@ -9,6 +9,7 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-150resolucao-300px.png",
   "name": "Varal do torcedor",
+  "repository": "ecomplus-stores/varaldotorcedor",
   "short_name": "Varal do Torcedor",
   "lang": "pt_br",
   "currency": "BRL",
