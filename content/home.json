@@ -5,6 +5,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-11T05:47:11.957Z",
+          "end": "2025-07-11T05:47:11.973Z",
+          "img": "/img/uploads/composicao-70.webp"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
