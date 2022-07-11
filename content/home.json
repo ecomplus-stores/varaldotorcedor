@@ -169,11 +169,21 @@
       "title": "Mais vendidos"
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
         {
+          "start": "2022-07-11T05:51:28.790Z",
+          "end": "2027-07-08T05:51:28.805Z",
           "img": "/img/uploads/banner-rodape.jpg",
-          "link": "https://www.instagram.com/varaldotorcedoroficial/?hl=pt"
+          "link": "https://www.instagram.com/varaldotorcedoroficial/"
+        },
+        {
+          "start": "2022-07-11T05:51:54.321Z",
+          "end": "2027-07-08T05:51:54.336Z",
+          "img": "/img/uploads/composicao-8_10.webp",
+          "link": "https://t.me/+G9fjO-60fB9lYzUx"
         }
       ]
     },
