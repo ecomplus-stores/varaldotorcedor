@@ -8,18 +8,6 @@
       "full_width": false,
       "slides": [
         {
-          "start": "2022-07-11T05:47:11.957Z",
-          "end": "2025-07-11T05:47:11.973Z",
-          "img": "/img/uploads/composicao-70.webp"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
           "start": "2022-07-11T05:34:26.660Z",
           "end": "2025-04-26T05:34:57.437Z",
           "img": "/img/uploads/banner-03.webp",
@@ -39,6 +27,10 @@
           "link": "https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/composicao-70.webp"
     },
     {
       "type": "collection-shelf",
