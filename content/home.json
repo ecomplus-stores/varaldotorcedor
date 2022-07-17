@@ -37,6 +37,18 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/composicao-70.webp"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
+      "sort": "news"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -54,18 +66,6 @@
           "link": "https://www.varaldotorcedor.com.br/copa-do-mundo-2022"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/composicao-70.webp"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
-      "sort": "news"
     },
     {
       "type": "collection-shelf",
