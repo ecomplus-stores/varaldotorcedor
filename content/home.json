@@ -41,10 +41,13 @@
       "img": "/img/uploads/composicao-70.webp"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
       "page": 1,
+      "title": "Lançamentos 2022/2023",
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.varaldotorcedor.com.br/lancamentos",
+      "limit": 24,
       "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
       "sort": "news"
     },
