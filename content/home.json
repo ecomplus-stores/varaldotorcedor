@@ -16,6 +16,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-argentina-20222023"
+        },
+        {
+          "img": "/img/uploads/2.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-uruguai-20222023"
+        },
+        {
+          "img": "/img/uploads/3.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-psg-20222023"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -37,23 +54,6 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/composicao-70.webp"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/1.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-argentina-20222023"
-        },
-        {
-          "img": "/img/uploads/2.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-uruguai-20222023"
-        },
-        {
-          "img": "/img/uploads/3.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-psg-20222023"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
