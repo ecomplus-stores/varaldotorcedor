@@ -19,6 +19,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/third-2-arsen.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-third-arsenal-20222023"
+        },
+        {
           "img": "/img/uploads/paris-away-2022.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-away-psg-20222023"
         },
@@ -29,10 +33,6 @@
         {
           "img": "/img/uploads/united-home-2022.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-mancheste-united-20222023"
-        },
-        {
-          "img": "/img/uploads/third-2-arsen.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-arsenal-20222023"
         }
       ]
     },
