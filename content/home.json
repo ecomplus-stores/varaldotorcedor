@@ -44,7 +44,7 @@
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://www.varaldotorcedor.com.br/lancamentos",
       "limit": 24,
