@@ -16,6 +16,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/composicao-70.webp"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -60,10 +64,6 @@
           "link": "https://www.varaldotorcedor.com.br/serie-a/"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/composicao-70.webp"
     },
     {
       "page": 1,
