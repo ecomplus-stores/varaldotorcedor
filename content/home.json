@@ -16,6 +16,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/away-ajax.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-away-ajax-20222023"
+        },
+        {
+          "img": "/img/uploads/123-arsenal.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-third-arsenal-20222023"
+        },
+        {
+          "img": "/img/uploads/paris-away-2022.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-away-psg-20222023"
+        },
+        {
+          "img": "/img/uploads/internazionale-home-2022.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-internazionale-20222023"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -37,27 +58,6 @@
           "end": "2027-03-13T04:49:38.843Z",
           "img": "/img/uploads/serie-a.webp",
           "link": "https://www.varaldotorcedor.com.br/serie-a/"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/away-ajax.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-ajax-20222023"
-        },
-        {
-          "img": "/img/uploads/123-arsenal.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-arsenal-20222023"
-        },
-        {
-          "img": "/img/uploads/paris-away-2022.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-psg-20222023"
-        },
-        {
-          "img": "/img/uploads/internazionale-home-2022.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-internazionale-20222023"
         }
       ]
     },
