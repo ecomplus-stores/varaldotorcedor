@@ -52,6 +52,15 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 22,
+      "page": 1,
+      "collection_id": "62563dd02e405e04ff3c68ac:categories:Pronta Entrega:/pronta-entrega",
+      "sort": "views",
+      "title": "Pronta Entrega"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
