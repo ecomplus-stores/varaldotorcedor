@@ -23,6 +23,10 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/third-bayern.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-third-bayern-de-munique-20222023"
+        },
+        {
           "img": "/img/uploads/away-ajax.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-away-ajax-20222023"
         },
@@ -33,10 +37,6 @@
         {
           "img": "/img/uploads/paris-away-2022.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-away-psg-20222023"
-        },
-        {
-          "img": "/img/uploads/internazionale-home-2022.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-internazionale-20222023"
         }
       ]
     },
