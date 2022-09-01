@@ -20,27 +20,6 @@
       "img": "/img/uploads/composicao-70.webp"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/third-manchester-united.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-manchester-united-20222023"
-        },
-        {
-          "img": "/img/uploads/third-bayern.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-bayern-de-munique-20222023"
-        },
-        {
-          "img": "/img/uploads/away-ajax.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-ajax-20222023"
-        },
-        {
-          "img": "/img/uploads/123-arsenal.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-third-arsenal-20222023"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
