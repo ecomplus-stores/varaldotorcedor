@@ -26,6 +26,10 @@
       "sort": null
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ajuste-site.png"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
