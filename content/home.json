@@ -106,7 +106,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6205946a7963422eeef983c7:collections:Copa do Mundo 2022:/copa-do-mundo-2022",
-      "sort": "sales"
+      "sort": "views",
+      "title": "Seleções"
     },
     {
       "type": "collection-shelf",
