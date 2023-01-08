@@ -8,8 +8,9 @@
     "text": "Parcelamos em até 12x sem juros"
   },
   "exchange": {
-    "show": true,
-    "text": "Transferência/Depósito: 5% de desconto"
+    "show": false,
+    "text": "",
+    "title": "10% OFF - CUPOM: 10OFFVARAL"
   },
   "promo": {
     "show": false,
