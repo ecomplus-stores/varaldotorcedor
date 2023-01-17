@@ -1,6 +1,6 @@
 {
   "meta_title": "Varal do Torcedor",
-  "meta_description": "Varal,camisas,Torcedor,Nba,Futebol,Aagasalhos,futebol 2022, varal do torcedor,tênis,copa do mundo.",
+  "meta_description": "Varal,camisas,Torcedor,Nba,Futebol,Agasalhos,futebol 2022, varal do torcedor,tênis,copa do mundo.",
   "sections": [
     {
       "type": "responsive-banner",
@@ -64,6 +64,16 @@
           "link": "https://www.varaldotorcedor.com.br/serie-a/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 3,
+      "collection_id": "63c6e3644834634f73396fb2:collections:AS MAIS DESEJADAS:/as-mais-desejadas",
+      "sort": "news",
+      "headless": false,
+      "title": "AS MAIS DESEJADAS DO MOMENTO"
     },
     {
       "page": 1,
