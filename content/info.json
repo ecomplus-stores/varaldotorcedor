@@ -5,10 +5,10 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos em até 12x sem juros"
+    "text": "Parcelamos em até 10x sem juros"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "10% OFF - CUPOM: 10OFFVARAL"
   },
