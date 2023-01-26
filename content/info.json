@@ -8,9 +8,9 @@
     "text": "Parcelamos em até 10x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "",
-    "title": "10% OFF - CUPOM: 10OFFVARAL"
+    "title": ""
   },
   "promo": {
     "show": false,
