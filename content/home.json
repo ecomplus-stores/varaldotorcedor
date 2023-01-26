@@ -3,11 +3,6 @@
   "meta_description": "Varal,camisas,Torcedor,Nba,Futebol,Agasalhos,futebol 2022, varal do torcedor,tênis,copa do mundo.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/mensagem-de-recesso.webp",
-      "link": "https://www.varaldotorcedor.com.br/pages/recesso-dos-fornecedores"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
