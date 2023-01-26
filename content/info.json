@@ -1,10 +1,10 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete Grátis para todo o Brasil"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcelamos em até 10x sem juros"
   },
   "exchange": {
