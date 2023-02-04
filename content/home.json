@@ -16,10 +16,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/brasil-12x.webp"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
