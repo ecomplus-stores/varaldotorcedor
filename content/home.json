@@ -20,12 +20,6 @@
       "img": "/img/uploads/12x-sm-juros.webp"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/ajuste-site.png"
     },
