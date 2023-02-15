@@ -120,6 +120,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 14,
+      "page": 2,
+      "collection_id": "63eb894ef4167e223c8ea9b1:categories:Brasileirão:/campeonato-brasileiro",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 15,
       "page": 1,
       "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
