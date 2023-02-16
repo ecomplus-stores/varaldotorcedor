@@ -27,7 +27,7 @@
       "/casual?Casual",
       "/pronta-entrega?Pronta Entrega"
     ],
-    "random": 5,
+    "random": 8,
     "full_width": true
   },
   "search_input": true,
