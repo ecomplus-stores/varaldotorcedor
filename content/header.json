@@ -24,7 +24,8 @@
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
       "/nba/?NBA",
-      "/casual?Casual"
+      "/casual?Casual",
+      "/pronta-entrega?Pronta Entrega"
     ],
     "random": 5,
     "full_width": true
