@@ -21,16 +21,6 @@
       "img": "/img/uploads/banner-varal-correcao.acerto.webp"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63c6e3644834634f73396fb2:collections:AS MAIS DESEJADAS:/as-mais-desejadas",
-      "sort": "views",
-      "headless": false,
-      "title": "AS MAIS DESEJADAS DO MOMENTO"
-    },
-    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
@@ -40,6 +30,16 @@
       "limit": 24,
       "collection_id": "60d4e0d1d24de4526faced3a:categories:Lançamentos:/lancamentos",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63c6e3644834634f73396fb2:collections:AS MAIS DESEJADAS:/as-mais-desejadas",
+      "sort": "views",
+      "headless": false,
+      "title": "AS MAIS DESEJADAS DO MOMENTO"
     },
     {
       "type": "collection-shelf",
