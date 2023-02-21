@@ -163,14 +163,6 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "60d573eed24de4526fad3755:categories:Coleção Inverno 2022:/colecao-inverno-2021",
-      "sort": "news"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -186,6 +178,14 @@
           "link": "https://www.varaldotorcedor.com.br/linha-retro/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 15,
+      "page": 1,
+      "collection_id": "60d573eed24de4526fad3755:categories:Coleção Inverno 2022:/colecao-inverno-2021",
+      "sort": "news"
     },
     {
       "type": "info-bar",
