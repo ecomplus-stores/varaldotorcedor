@@ -1,6 +1,6 @@
 {
   "meta_title": "Varal do Torcedor",
-  "meta_description": "Varal, camisas, Torcedor, Nba, Futebol, Agasalhos, futebol 2022, chuteiras.",
+  "meta_description": "Desde 1º de julho de 2018, o Varal do Torcedor vêm se tornando uma referência de qualidade e preço justo em artigos esportivos. Trazendo o que há de melhor no mundo esportivo, buscamos a fidelização de nossos clientes, através de uma experiência transparente e satisfatória.",
   "sections": [
     {
       "type": "banner-slider",
@@ -124,16 +124,17 @@
       "shuffle": false,
       "limit": 15,
       "page": 1,
-      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
-      "sort": "sales"
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Mais vendidos"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 15,
       "page": 1,
-      "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
-      "sort": "news"
+      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -152,6 +153,14 @@
           "link": "https://www.varaldotorcedor.com.br/feminino/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -179,15 +188,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "Mais vendidos"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -201,6 +201,23 @@
           "end": "2027-07-08T05:51:28.805Z",
           "img": "/img/uploads/banner-rodape.webp",
           "link": "https://www.instagram.com/varaldotorcedoroficial/"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "template/public/img/uploads/air-jordan.webp",
+          "link": "https://www.varaldotorcedor.com.br/air-jordan"
+        },
+        {
+          "img": "template/public/img/uploads/adidas.webp",
+          "link": "https://www.varaldotorcedor.com.br/adidas"
+        },
+        {
+          "img": "template/public/img/uploads/nike.webp",
+          "link": "https://www.varaldotorcedor.com.br/nike"
         }
       ]
     }
