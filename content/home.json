@@ -10,9 +10,9 @@
         {
           "start": "2022-07-11T05:44:40.547Z",
           "end": "2024-09-06T17:28:52.813Z",
-          "img": "template/public/img/uploads/ajuste-desktop.webp",
+          "img": "/img/uploads/ajuste-desktop.webp",
           "link": "https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2",
-          "mobile_img": "template/public/img/uploads/banner-ajustado-4.png"
+          "mobile_img": "/img/uploads/banner-ajustado-4.png"
         }
       ]
     },
@@ -192,31 +192,18 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-07-11T05:51:28.790Z",
-          "end": "2027-07-08T05:51:28.805Z",
-          "img": "/img/uploads/banner-rodape.webp",
-          "link": "https://www.instagram.com/varaldotorcedoroficial/"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "template/public/img/uploads/air-jordan.webp",
+          "img": "/img/uploads/air-jordan.webp",
           "link": "https://www.varaldotorcedor.com.br/air-jordan"
         },
         {
-          "img": "template/public/img/uploads/adidas.webp",
+          "img": "/img/uploads/adidas.webp",
           "link": "https://www.varaldotorcedor.com.br/adidas"
         },
         {
-          "img": "template/public/img/uploads/nike.webp",
+          "img": "/img/uploads/nike.webp",
           "link": "https://www.varaldotorcedor.com.br/nike"
         }
       ]
@@ -229,6 +216,19 @@
       "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
       "sort": "sales",
       "title": "Os mais procurados"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-07-11T05:51:28.790Z",
+          "end": "2027-07-08T05:51:28.805Z",
+          "img": "/img/uploads/banner-rodape.webp",
+          "link": "https://www.instagram.com/varaldotorcedoroficial/"
+        }
+      ]
     }
   ]
 }
