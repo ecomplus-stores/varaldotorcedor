@@ -21,6 +21,27 @@
       "img": "/img/uploads/banner-varal-correcao.acerto.webp"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/borussia.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-blackout-borussia-dortmund-2023"
+        },
+        {
+          "img": "/img/uploads/flamengo.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-flamengo-20222023"
+        },
+        {
+          "img": "/img/uploads/italia.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-italia-20232024"
+        },
+        {
+          "img": "/img/uploads/cr7-al.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-al-nassr-20222023"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
