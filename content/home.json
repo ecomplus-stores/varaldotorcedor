@@ -220,6 +220,15 @@
           "link": "https://www.varaldotorcedor.com.br/nike"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
+      "sort": "sales",
+      "title": "Os mais procurados"
     }
   ]
 }
