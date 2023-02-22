@@ -18,6 +18,7 @@
     "featured": [
       "/novidades?Novidades",
       "/lancamentos?Lançamentos",
+      "/ligas?Ligas",
       "/futebol/?Futebol",
       "/colecao-inverno-2021?Coleção Inverno 2023",
       "/linha-retro/?Linha Retrô",
@@ -27,7 +28,7 @@
       "/casual?Casual",
       "/pronta-entrega?Pronta Entrega"
     ],
-    "random": 8,
+    "random": 11,
     "full_width": true
   },
   "search_input": true,
