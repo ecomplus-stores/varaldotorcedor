@@ -50,16 +50,6 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 22,
-      "page": 1,
-      "collection_id": "62563dd02e405e04ff3c68ac:categories:Pronta Entrega:/pronta-entrega",
-      "sort": "news",
-      "title": "Pronta Entrega",
-      "link": "https://www.varaldotorcedor.com.br/pronta-entrega"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -90,69 +80,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 14,
-      "page": 2,
-      "collection_id": "63eb894ef4167e223c8ea9b1:categories:Brasileirão:/campeonato-brasileiro",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 18,
-      "page": 1,
-      "collection_id": "5fadb93880c6216a3fc55280:categories:Serie A:/serie-a/",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "Mais vendidos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 15,
       "page": 1,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/nba.webp",
-          "link": "https://www.varaldotorcedor.com.br/nba/",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/copa-do-mundo-desenho.webp",
-          "link": "https://www.varaldotorcedor.com.br/selecoes/"
-        },
-        {
-          "img": "/img/uploads/futebol-feminino-desenho.webp",
-          "link": "https://www.varaldotorcedor.com.br/feminino/"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -163,72 +94,8 @@
       "sort": "news"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/chuteiras.webp",
-          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
-        },
-        {
-          "img": "/img/uploads/colecao-inverno.webp",
-          "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
-        },
-        {
-          "img": "/img/uploads/linha-retro.webp",
-          "link": "https://www.varaldotorcedor.com.br/linha-retro/"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "60d573eed24de4526fad3755:categories:Coleção Inverno 2022:/colecao-inverno-2021",
-      "sort": "news"
-    },
-    {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/air-jordan.webp",
-          "link": "https://www.varaldotorcedor.com.br/air-jordan"
-        },
-        {
-          "img": "/img/uploads/adidas.webp",
-          "link": "https://www.varaldotorcedor.com.br/adidas"
-        },
-        {
-          "img": "/img/uploads/nike.webp",
-          "link": "https://www.varaldotorcedor.com.br/nike"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
-      "sort": "sales",
-      "title": "Os mais procurados"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-07-11T05:51:28.790Z",
-          "end": "2027-07-08T05:51:28.805Z",
-          "img": "/img/uploads/banner-rodape.webp",
-          "link": "https://www.instagram.com/varaldotorcedoroficial/"
-        }
-      ]
     }
   ]
 }
