@@ -24,19 +24,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/borussia-preta.webp",
+          "img": "/img/uploads/borussia-300x300.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-blackout-borussia-dortmund-2023"
         },
         {
-          "img": "/img/uploads/italia-2223.webp",
+          "img": "/img/uploads/italia-300x300.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-italia-20232024"
         },
         {
-          "img": "/img/uploads/flamento-2223.webp",
+          "img": "/img/uploads/flamento-300x300.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-flamengo-20222023"
         },
         {
-          "img": "/img/uploads/cr7.webp",
+          "img": "/img/uploads/cr7-al-nassr.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-home-al-nassr-20222023"
         }
       ]
