@@ -21,6 +21,12 @@
       "img": "/img/uploads/banner-varal-correcao.acerto.webp"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
