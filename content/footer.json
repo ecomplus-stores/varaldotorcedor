@@ -22,7 +22,7 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/ssl-safe.webp",
       "alt": "Secure connection"
     },
     {
@@ -36,7 +36,7 @@
   ],
   "payment_methods": {
     "bb": true,
-    "visa": true,
+    "visa": false,
     "boleto": true,
     "aura": false,
     "banrisul": false,
