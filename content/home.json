@@ -59,6 +59,23 @@
       "title": "UEFA Champions League 2022/2023"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6205946a7963422eeef983c7:collections:Copa do Mundo 2022:/copa-do-mundo-2022",
+      "sort": "sales",
+      "title": "Seleções"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
+      "sort": "sales"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -76,23 +93,6 @@
           "link": "https://www.varaldotorcedor.com.br/chuteiras/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6205946a7963422eeef983c7:collections:Copa do Mundo 2022:/copa-do-mundo-2022",
-      "sort": "sales",
-      "title": "Seleções"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
-      "sort": "sales"
     },
     {
       "type": "collection-shelf",
