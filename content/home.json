@@ -21,6 +21,27 @@
       "img": "/img/uploads/banner-varal-correcao.acerto.webp"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/internacional-2324.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-internacional-20232024---pre-venda-envio-a-partir-do-dia-15032023"
+        },
+        {
+          "img": "/img/uploads/inter-miami.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-away-inter-miami-20232024"
+        },
+        {
+          "img": "/img/uploads/borussia-dortmund.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-blackout-borussia-dortmund-2023"
+        },
+        {
+          "img": "/img/uploads/rangers.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-versao-especial-acdc-rangers-20232024"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
