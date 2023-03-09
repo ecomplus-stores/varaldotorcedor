@@ -73,6 +73,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "60d573eed24de4526fad3755:categories:Coleção Inverno 2023:/colecao-inverno-2021",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "63f798fdf4167e223c999616:collections:Varal da Semana:/varal-da-semana",
@@ -129,6 +137,14 @@
       "limit": 20,
       "page": 1,
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5fadb92580c6216a3fc55256:categories:Tênis:/tenis/",
       "sort": "news"
     },
     {
