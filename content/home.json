@@ -42,6 +42,11 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
