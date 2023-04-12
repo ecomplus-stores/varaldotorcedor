@@ -29,11 +29,11 @@
       "/pronta-entrega?Pronta Entrega"
     ],
     "random": 11,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true,
   "desktop_megamenu": false,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true,
-  "centralized_logo": true
+  "centralized_logo": false
 }
