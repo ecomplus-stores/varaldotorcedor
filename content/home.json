@@ -17,10 +17,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-varal-correcao.acerto.webp"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
