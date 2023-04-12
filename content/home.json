@@ -17,27 +17,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/escocia.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-escocia-20232024---150-anos"
-        },
-        {
-          "img": "/img/uploads/home-orlando-city.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-orlando-city-20232024"
-        },
-        {
-          "img": "/img/uploads/away-lau.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-away-universidad-de-chile-20232024"
-        },
-        {
-          "img": "/img/uploads/inte-2324.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-internacional-20232024---pre-venda-envio-a-partir-do-dia-15032023"
-        }
-      ]
-    },
-    {
       "page": 1,
       "title": "Lançamentos 2022/2023",
       "shuffle": false,
