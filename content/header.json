@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Frete grátis para todo Brasil",
     "link": "",
     "color": "#f5f91a",
     "background": "#000000"
@@ -34,5 +34,6 @@
   "search_input": true,
   "desktop_megamenu": false,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": true,
+  "centralized_logo": true
 }
