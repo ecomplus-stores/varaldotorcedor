@@ -48,6 +48,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": false,
     "itau": true
   },
   "credits": ""
