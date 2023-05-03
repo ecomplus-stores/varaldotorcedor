@@ -131,6 +131,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/camisetas-que-nao-estao-no-site.png"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
