@@ -20,20 +20,20 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/nacional-third.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-third-nacional-2023"
+        },
+        {
+          "img": "/img/uploads/penarol.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-penarol-20232024"
+        },
+        {
+          "img": "/img/uploads/aik.webp",
+          "link": "https://www.varaldotorcedor.com.br/camisa-home-aik-fc-20232024"
+        },
+        {
           "img": "/img/uploads/escocia.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-escocia-20232024---150-anos"
-        },
-        {
-          "img": "/img/uploads/qdwqijfhiwbri2jr.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-blackout-borussia-dortmund-2023"
-        },
-        {
-          "img": "/img/uploads/nacional-home.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-home-nacional-2022"
-        },
-        {
-          "img": "/img/uploads/celtic-20232024.webp",
-          "link": "https://www.varaldotorcedor.com.br/camisa-fourth-celtic-20232024"
         }
       ]
     },
