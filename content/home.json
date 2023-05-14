@@ -75,15 +75,6 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais vendidos",
-      "autoplay": ""
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
