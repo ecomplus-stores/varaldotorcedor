@@ -126,11 +126,6 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/camisetas-que-nao-estao-no-site.webp",
-      "link": "https://wa.me/555193292344?text=Ol%C3%A1+Varal%2C+gostaria+de+ver+a+disponibilidade+de+um+produto"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
