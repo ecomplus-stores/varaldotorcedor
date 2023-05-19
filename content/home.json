@@ -128,6 +128,18 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/modelos-nao-disponiveis-1280x120-.webp"
+        }
+      ]
     }
   ]
 }
