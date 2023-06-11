@@ -1,13 +1,14 @@
 {
   "sort_categories": [
     "futebol/",
+    "ligas",
+    "novidades",
+    "lancamentos",
     "chuteiras/",
     "linha-retro/",
-    "u_10391/",
-    "nba/",
-    "bolas/"
+    "nba/"
   ],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": true
+  "alphabetical_order": false
 }
