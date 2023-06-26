@@ -10,7 +10,7 @@
         {
           "start": "2022-07-11T05:44:40.547Z",
           "end": "2024-09-06T17:28:52.813Z",
-          "img": "/img/uploads/ajuste-desktop.webp",
+          "img": "/img/uploads/banner-1-layout.webp",
           "link": "https://www.varaldotorcedor.com.br/pages/promocao-compre-3-pague-2",
           "mobile_img": "/img/uploads/banner-layout-01.webp"
         }
@@ -102,8 +102,21 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/modelos-nao-disponiveis-1280x120-2222.webp",
+      "img": "/img/uploads/banner-3-layout.webp",
       "link": "https://wa.me/5551993292344?text=Ol%C3%A1+Varal%2C+gostaria+de+ver+a+disponibilidade+de+um+produto"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-3-layout.webp",
+          "link": "https://www.instagram.com/varaldotorcedoroficial/"
+        },
+        {
+          "img": "/img/uploads/banner-4-layout.webp",
+          "link": "https://wa.me/5551993292344?text=Ol%C3%A1+Varal%2C+gostaria+de+ver+a+disponibilidade+de+um+produto"
+        }
+      ]
     },
     {
       "type": "info-bar",
