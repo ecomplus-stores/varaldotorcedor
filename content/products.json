@@ -1,20 +1,16 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
     {
       "type": "product-description",
-      "enabled": true
+      "enabled": false
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
+      "type": "buy-together",
+      "enabled": true
     }
   ]
 }
