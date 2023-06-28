@@ -1,15 +1,19 @@
 {
   "sections": [
     {
-      "type": "buy-together",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
     {
       "type": "product-description",
+      "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos Relacionados"
+    },
+    {
+      "type": "buy-together",
       "enabled": true
     }
   ]
