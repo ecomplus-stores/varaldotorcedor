@@ -23,9 +23,7 @@
       "/futebol/?Futebol",
       "/colecao-inverno-2021?Coleção Inverno 2023",
       "/linha-retro/?Linha Retrô",
-      "/chuteiras/?Chuteiras",
-      "/nba/?NBA",
-      "/casual?Casual"
+      "/chuteiras/?Chuteiras"
     ],
     "random": 11,
     "full_width": true
