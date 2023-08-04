@@ -5,7 +5,8 @@
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "UA-189704308-1",
-    "googleAdsId": "AW-10831025189/0JQACKS4ioUYEKWo0awo"
+    "googleAdsId": "AW-10831025189/0JQACKS4ioUYEKWo0awo",
+    "partytown": true
   },
   "headAppend": "src/append/head"
 }
