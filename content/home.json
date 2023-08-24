@@ -46,9 +46,17 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
-      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
+      "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
       "sort": "news"
     },
     {
@@ -69,6 +77,23 @@
           "link": "https://www.varaldotorcedor.com.br/chuteiras/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "63bc51ad4834634f732df3f7:categories:Saudi Pro League:/campeonato-saudita",
+      "title": "Liga Saudita",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -119,6 +144,14 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 19,
+      "page": 1,
+      "collection_id": "5fadb92980c6216a3fc55260:categories:MLS:/mls/",
+      "sort": "news"
     }
   ]
 }
