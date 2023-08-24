@@ -60,6 +60,14 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 19,
+      "page": 1,
+      "collection_id": "5fadb92980c6216a3fc55260:categories:MLS:/mls/",
+      "sort": "news"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -144,14 +152,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 19,
-      "page": 1,
-      "collection_id": "5fadb92980c6216a3fc55260:categories:MLS:/mls/",
-      "sort": "news"
     }
   ]
 }
