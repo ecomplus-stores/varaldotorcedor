@@ -38,6 +38,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "63f798fdf4167e223c999616:collections:Varal da Semana:/varal-da-semana",
@@ -94,14 +102,6 @@
           "link": "https://www.varaldotorcedor.com.br/chuteiras/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "602c68b39332dd6865d6411f:categories:Novidades:/novidades",
-      "sort": "news"
     },
     {
       "type": "collection-shelf",
