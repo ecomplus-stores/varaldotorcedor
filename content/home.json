@@ -48,6 +48,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "5fadb92c80c6216a3fc55266:categories:Infantil:/infantil/",
+      "sort": "sales",
+      "title": "Kits Infantis - COMPRE 3 PAGUE 2"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "63f798fdf4167e223c999616:collections:Varal da Semana:/varal-da-semana",
       "sort": "news"
     },
