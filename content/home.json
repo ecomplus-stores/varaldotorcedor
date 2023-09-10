@@ -15,18 +15,20 @@
           "mobile_img": "/img/uploads/mobile-1.webp"
         },
         {
-          "start": "2023-09-10T07:52:26.118Z",
+          "start": "2023-09-10T08:12:08.198Z",
           "end": "",
-          "img": "/img/uploads/third-barca.webp",
+          "img": "/img/uploads/barca-desk.webp",
           "link": "https://www.varaldotorcedor.com.br/camisa-third-barcelona-20232024-c170-c519",
-          "alt": "Clique aqui"
+          "alt": "",
+          "mobile_img": "/img/uploads/barca-mob.webp"
         },
         {
-          "start": "2023-09-10T07:49:44.234Z",
+          "start": "2023-09-10T08:12:32.335Z",
           "end": "2024-07-13T07:49:51.421Z",
-          "img": "/img/uploads/chuteira-nike-azul-superfly.webp",
+          "img": "/img/uploads/chut-desk.webp",
           "link": "https://www.varaldotorcedor.com.br/chuteira-air-zoom-mercurial-superfly-9-elite-mbappe",
-          "alt": "Clique aqui"
+          "alt": "",
+          "mobile_img": "/img/uploads/chut-mob.webp"
         }
       ]
     },
