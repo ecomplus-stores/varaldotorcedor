@@ -56,6 +56,15 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
+      "collection_id": "5fadb92c80c6216a3fc55266:categories:Infantil:/infantil/",
+      "sort": "news",
+      "title": "Kits Infantis - COMPRE 2 LEVE 3"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
       "collection_id": "64f559a32cd6b659593bb217:collections:Ofertas da semana:/ofertas-da-semana",
       "sort": "sales"
     },
