@@ -57,41 +57,6 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "64f559a32cd6b659593bb217:collections:Ofertas da semana:/ofertas-da-semana",
-      "sort": "sales"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-07-11T05:34:26.660Z",
-          "end": "2025-04-26T05:34:57.437Z",
-          "img": "/img/uploads/banner-03.webp",
-          "link": "https://www.varaldotorcedor.com.br/colecao-inverno-2021"
-        },
-        {
-          "start": "2022-12-22T05:04:23.234Z",
-          "end": "2025-03-14T05:04:24.167Z",
-          "img": "/img/uploads/chuteiras-123.webp",
-          "link": "https://www.varaldotorcedor.com.br/chuteiras/"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "60d573eed24de4526fad3755:categories:Coleção Inverno 2023:/colecao-inverno-2021",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "sales",
       "title": "Mais vendidos"
